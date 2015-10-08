@@ -1,0 +1,35 @@
+html {
+	font-size: 11px; /* pixel height */
+	font-family: 'Questrial', sans-serif;
+	background-color: #F0FFD3;
+	width: 100%;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+	margin: 0;
+	padding: 20px 0;
+	text-shadow: 3px 3px 1px grey;
+}
+
+
+p, li {
+	font-size: 26px;
+	line-height: 1.5;
+	letter-spacing: 2px;
+	text-align: center;
+}
+
+body {
+	width: 75%;
+	margin: 0 auto;
+	background-color: #F0FFD3;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
